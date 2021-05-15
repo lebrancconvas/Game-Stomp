@@ -1,4 +1,4 @@
-# dockervue02
+# GameStomp 
 
 ## Project setup
 ```
